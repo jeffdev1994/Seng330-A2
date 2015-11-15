@@ -1,0 +1,2 @@
+using a linux machine, run 'make'
+the produced executable file is ptp. to run, type ./ptp
